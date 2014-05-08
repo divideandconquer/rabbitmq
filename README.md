@@ -1,5 +1,8 @@
 rabbitmq Cookbook
 =================
+
+** NOTE: The fixes that this fork was created for have been merged into the main opscode repo.  I recommended that everyone uses that to keep as up to date as possible: https://github.com/opscode-cookbooks/rabbitmq **
+
 This is a cookbook for managing RabbitMQ with Chef. It is intended for 2.6.1 or later releases.
 
 **Version 2.0 Changes**
